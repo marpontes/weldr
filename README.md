@@ -21,4 +21,4 @@ At the current stage of the project, it's only able to perform these tasks withi
 
 
 #### Dependencies:
-[`pentaho/pentaho-kettle/4.4.2`](https://github.com/pentaho/pentaho-kettle/releases/tag/4.4.2-GA)
+[`pentaho/pentaho-kettle/4.4.2`](https://github.com/pentaho/pentaho-kettle/releases/tag/4.4.2-GA) or more recent.
